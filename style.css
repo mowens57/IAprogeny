@@ -73,14 +73,14 @@ p {
   padding: 60px 0;
 }
 
-.topic-author img {
-  width: 50px;
-  height: 50px;
+.topic-moderator img {
+  width: 10px;
+  height: 10px;
   vertical-align: middle;
-  border-radius: 25px;
+  border-radius: 5px;
 }
 
-.topic-author span {
+.topic-moderator span {
   margin-left: 16px;
 }
 
