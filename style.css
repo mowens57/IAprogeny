@@ -74,10 +74,10 @@ p {
 }
 
 .topic-moderator img {
-  width: 10px;
-  height: 10px;
+  width: 20px;
+  height: 20px;
   vertical-align: middle;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .topic-moderator span {
